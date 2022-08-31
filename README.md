@@ -1,4 +1,4 @@
-# SBAjavascripthtml
+# javascripthtml
 
 This is a website that  uses the following techonologies:
 
